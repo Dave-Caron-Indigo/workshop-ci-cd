@@ -3,42 +3,42 @@ import { Octocat } from "./Octocat";
 const MockOctocats: Octocat[] = [
   {
     id: "#146",
-    imageUrl: "./12934096334_5cb87e1469_o.jpg",
+    imageUrl: "./PXL_20240119_140050795.jpg",
     name: "Sounding Rocket",
   },
   {
     id: "#147",
-    imageUrl: "./8898508~medium.jpg",
+    imageUrl: "./PXL_20240119_140058645.jpg",
     name: "Atlantis",
   },
   {
     id: "#148",
-    imageUrl: "./pia13746-43.jpg",
+    imageUrl: "./PXL_20240119_140058645.jpg",
     name: "Juno Space Craft",
   },
   {
     id: "#149",
-    imageUrl: "./block_1_cargo_in_flig_spacemoon.jpg",
+    imageUrl: "./PXL_20240119_164946459.jpg",
     name: "Nasa Space Launch Station",
   },
   {
     id: "#150",
-    imageUrl: "./5700514~medium.jpg",
+    imageUrl: "./PXL_20240119_164946459.jpg",
     name: "Jupiter Rocket",
   },
   {
     id: "#151",
-    imageUrl: "./7667283_1041x1325_0.jpg",
+    imageUrl: "./PXL_20240119_180043705.jpg",
     name: "LAGEOS Satellite",
   },
   {
     id: "#152",
-    imageUrl: "./shuttle_sts120.jpg",
+    imageUrl: "./PXL_20240119_180043705.jpg",
     name: "The Space Shuttle",
   },
   {
     id: "#153",
-    imageUrl: "./jsc2022e044291~small.jpg",
+    imageUrl: "./PXL_20240119_180048406.jpg",
     name: "Orion Delta IV Heavy Rocket",
   },
 ];

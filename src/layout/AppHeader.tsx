@@ -35,7 +35,7 @@ const AppHeader: FunctionComponent = (): ReactElement => {
     <Header>
       <Header.Item full>
         <StyledOcticon icon={MarkGithubIcon} size={32} sx={{ mr: 2 }} />
-        <GHStyledLink to="/">RocketDex</GHStyledLink>
+        <GHStyledLink to="/">Rocket Les Viandes</GHStyledLink>
       </Header.Item>
       <Header.Item>
         {isLoggedIn ? (
