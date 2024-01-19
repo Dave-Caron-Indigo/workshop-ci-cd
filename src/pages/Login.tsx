@@ -8,7 +8,7 @@ import { useUser } from "../auth/UserContextProvider";
 const mapErrorMessage = (error: Error) => {
   switch (error.name) {
     case AUTHENTICATION_ERROR:
-      return "Invalid username or password.";
+      return "AAAAAAAAAAAAAAAAAAAALLLLLLLLLLLLLLLLLLLLLLLLLLLLLLOOOOOOOOOOOOOOOOOOOO.";
     case SERVER_UNAVAILABLE_ERROR:
       return "Authentication server not available. Please try again later.";
     default:
